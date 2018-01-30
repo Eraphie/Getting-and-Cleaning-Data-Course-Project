@@ -3,7 +3,7 @@
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
 
 ## Overview
-This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for later analysis using Human Activity Recognition Using Smartphones Dataset. A full description of the data used in this project can be found at The UCI Machine Learning Repository 
+This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for later analysis using  Smartphones Dataset. A full description of the data used in this project can be found at The UCI Machine Learning Repository 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Here are the data for the project:
