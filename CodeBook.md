@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project CodeBook
 
-Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.
+A code book that describes the variables, the data, and any transformations or work that were performed to clean up the data.
 
 ## Original Data
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
