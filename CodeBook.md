@@ -44,7 +44,7 @@ extract column indices with either mean and standard deviation using pattern mat
 Subset this data to keep only the necessary/required columns.
 
 ## Step3.Use descriptive activity names to name the activities in the data set
-change the class from numeric to character usign as.character()
+change the class from numeric to character usign as.character() and the activityLabels 
 Coerce activity as factor using as.factor()
 
 
